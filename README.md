@@ -10,7 +10,8 @@ Training deep neural networks from scratch requires large datasets, high computa
 
 The goal of this project is to develop an image classification model using Transfer Learning, where a pre-trained neural network is reused and fine-tuned to classify new data efficiently.
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="936" height="718" alt="image" src="https://github.com/user-attachments/assets/67f4bd02-cba9-4d6a-bb70-fbe86e48ca1b" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
